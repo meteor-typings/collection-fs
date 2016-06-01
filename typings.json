@@ -1,0 +1,11 @@
+{
+  "name": "collection-fs",
+  "version": "0.0.30",
+  "main": "main.d.ts",
+  "homepage": "https://github.com/CollectionFS/Meteor-CollectionFS",
+  "ambient": true,
+  "ambientDependencies": {
+    "meteor": "registry:env/meteor",
+    "node": "registry:env/node"
+  }
+}
